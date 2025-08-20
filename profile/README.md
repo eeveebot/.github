@@ -15,3 +15,9 @@
 ## Getting Started
 
 Check out [eevee/README.md](https://github.com/eeveebot/eevee/blob/main/README.md) for setup instructions.
+
+## License
+
+All eevee components are covered under `Attribution-NonCommercial-ShareAlike 4.0 International`
+
+See [LICENSE](https://github.com/eeveebot/.github/blob/main/LICENSE) for details.
