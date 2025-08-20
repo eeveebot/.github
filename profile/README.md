@@ -4,8 +4,14 @@
 
 ## Helpful Links
 
-[**Documentation Repo**](https://github.com/eeveebot/eevee)
+[**Documentation**](https://github.com/eeveebot/eevee)
 
-[**Operator Repo**](https://github.com/eeveebot/operator)
+[**Operator**](https://github.com/eeveebot/operator)
 
-[**Toolbox Repo**](https://github.com/eeveebot/toolbox)
+[**Toolbox**](https://github.com/eeveebot/toolbox)
+
+[**CLI**](https://github.com/eeveebot/cli)
+
+## Getting Started
+
+Check out [eevee/README.md](https://github.com/eeveebot/eevee/blob/main/README.md) for setup instructions.
