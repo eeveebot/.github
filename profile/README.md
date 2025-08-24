@@ -4,9 +4,13 @@
 
 ## Helpful Links
 
-[**Documentation**](https://github.com/eeveebot/eevee)
+[**Homepage**](https://eevee.bot/)
+
+[**Documentation**](https://eevee.bot/docs)
 
 [**Operator**](https://github.com/eeveebot/operator)
+
+[**Connector-IRC**](https://github.com/eeveebot/connector-irc)
 
 [**Toolbox**](https://github.com/eeveebot/toolbox)
 
