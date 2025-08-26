@@ -23,7 +23,7 @@ and consists of independent modules that communicate through a common message bu
 
 ## Getting Started
 
-Check out [quickstart/gettting-started](https://eevee.bot/docs/quickstart/getting-started/) for setup instructions.
+Check out [quickstart](https://eevee.bot/docs/quickstart) for setup instructions.
 
 ## License
 
