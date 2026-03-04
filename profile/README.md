@@ -18,8 +18,8 @@ and consists of independent modules that communicate through a common message bu
 | [**MetaRepo**](https://github.com/eeveebot/eevee)              | [![Build](https://github.com/eeveebot/eevee/actions/workflows/hugo.yaml/badge.svg?branch=main)](https://github.com/eeveebot/eevee/actions/workflows/hugo.yaml)
 | [**Operator**](https://github.com/eeveebot/operator)           | [![Build](https://github.com/eeveebot/operator/actions/workflows/build-operator-image.yaml/badge.svg?branch=main)](https://github.com/eeveebot/operator/actions/workflows/build-operator-image.yaml)
 | [**Connector-IRC**](https://github.com/eeveebot/connector-irc) | [![Build](https://github.com/eeveebot/connector-irc/actions/workflows/build-connector-irc-image.yaml/badge.svg?branch=main)](https://github.com/eeveebot/connector-irc/actions/workflows/build-connector-irc-image.yaml)
-| [**Toolbox**](https://github.com/eeveebot/toolbox)             | [![Build](https://github.com/eeveebot/toolbox/actions/workflows/build-container-image.yml/badge.svg?branch=main)](https://github.com/eeveebot/toolbox/actions/workflows/build-container-image.yml)
-| [**CLI**](https://github.com/eeveebot/cli)                     | [![Build](https://github.com/eeveebot/cli/actions/workflows/npm-publish-github-packages.yml/badge.svg)](https://github.com/eeveebot/cli/actions/workflows/npm-publish-github-packages.yml)
+| [**CLI**](https://github.com/eeveebot/cli)                     | [![Build NPM Package & Toolbox Image](https://github.com/eeveebot/cli/actions/workflows/workflow.yml/badge.svg)](https://github.com/eeveebot/cli/actions/workflows/workflow.yml)
+| [**CRDS**](https://github.com/eeveebot/crds)                   | [![Build](https://github.com/eeveebot/crds/actions/workflows/build.yml/badge.svg)](https://github.com/eeveebot/crds/actions/workflows/build.yml) [![Release](https://github.com/eeveebot/crds/actions/workflows/release.yml/badge.svg)](https://github.com/eeveebot/crds/actions/workflows/release.yml)
 
 ## Getting Started
 
